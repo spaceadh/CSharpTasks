@@ -1,20 +1,22 @@
-C# assignments for DigiCampus
+# C# Assignments for DigiCampus
 
+## Ubuntu Linux Instructions:
 
-For Ubuntu Linux :
-
-To compile :
+### To Compile:
+```bash
 mcs Assignment1.cs
+```
 
-To run compiled exe, 
+### To Run Compiled Executable:
+```bash
 mono Assignment.exe
+```
 
+## Final Exam Results:
+Got a 26/30: 
+![Got a 26/30!](<Screenshot from 2024-03-31 15-10-47.png>)
 
+In the First try:
+![Passed in the First Try](<Screenshot from 2024-03-31 15-09-07.png>)
 
-Final Exam exams : 
-
-![got a 26/30!](<Screenshot from 2024-03-31 15-10-47.png>)
-
-![Passed in the first Try](<Screenshot from 2024-03-31 15-09-07.png>)
-
-Sucks huh !
+### Sucks, huh? 🙃
